@@ -1,6 +1,6 @@
 # Exercícios iniciais de Python
 
-Repositório com exercícios básicos feitos em aula para praticar lógica de programação.
+Repositório com exercícios acadêmicos básicos para praticar lógica de programação e os primeiros comandos da linguagem Python.
 
 ## Tecnologia
 
@@ -8,11 +8,25 @@ Repositório com exercícios básicos feitos em aula para praticar lógica de pr
 
 ## Conteúdos praticados
 
-- Exibição de mensagens
-- Entrada de dados
-- Variáveis e tipos numéricos
+- Exibição de mensagens com `print`
+- Entrada de informações com `input`
+- Variáveis e conversão de tipos
 - Operações matemáticas
-- Condicionais
 - Cálculo de média
+- Estruturas condicionais (`if`, `elif` e `else`)
 
-Os arquivos foram mantidos com os nomes usados na atividade da aula.
+## Arquivos
+
+Os exercícios estão separados em arquivos de `exercicio1.pyt` até `exercicio11.pyt`, conforme os nomes utilizados na atividade original.
+
+## Como executar
+
+Com o Python instalado, abra o terminal na pasta do exercício e execute, por exemplo:
+
+```bash
+python exercicio3.pyt
+```
+
+Os arquivos mantêm a extensão `.pyt` usada na atividade; o comando acima permite executá-los com Python.
+
+Repositório de exercícios de aprendizado. Os exemplos são introdutórios e representam meu processo de formação.
